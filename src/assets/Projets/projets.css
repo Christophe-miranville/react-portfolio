@@ -1,0 +1,34 @@
+h3, h4{
+    font-size: 2rem;
+}
+.projet {
+    text-align: left;
+}
+
+.projet_img {
+    width: 250px;
+    border-radius: 25px;
+
+}
+
+.projet_container {
+    display: grid;
+    grid-template-columns: repeat (2, 20%, 80%);
+    gap: 10px;
+    margin: 50px 0;
+}
+
+.projet_img {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.projet {
+    grid-column: 2;
+    grid-row: 1;
+
+
+}
+.experience{
+    margin-top: 20px;
+}

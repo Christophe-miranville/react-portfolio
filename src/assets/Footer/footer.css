@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    align-items: center;
+}
+.logo_socials{
+    width: 100px;
+}
