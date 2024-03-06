@@ -1,7 +1,8 @@
 {
   "homepage": "https://Christophe-miranville.github.io/react-portfolio",
-  
   "name": "portfolio",
+
+  
   "private": true,
   "version": "0.0.0",
   "type": "module",
